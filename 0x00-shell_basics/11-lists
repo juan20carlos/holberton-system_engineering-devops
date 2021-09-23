@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . .. /bot a
+ls -la ... /bota
